@@ -15,7 +15,7 @@ Manual Software Testing
 ## :bulb: The result:
 The decomposition of the airport transfer search was selected and made : 'Agoda home page' > 'Airport transfer' > 'To airport'. 
 Screenshots of checklists and test wounds in a pdf file.
-Link to the decomposition scheme in Miro [Miro][]
+Link to the decomposition scheme in Miro [Link][]
 
 
-[Miro]: https://miro.com/app/board/uXjVNPGZ0DE=/
+[Link]: https://miro.com/app/board/uXjVNPGZ0DE=/
