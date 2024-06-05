@@ -6,7 +6,7 @@ Manual Software Testing
 ## Don't forget to give a :star: to make the project popular :) 
 
 ## :boom: The task and what needs to be done?
-- Decompose an object or several objects on the agoda.com website.
+- Decompose an object on the agoda .com website.
 
 - In the form of a mind map, write out the parameters and values of objects and (break everything down into equivalent classes and boundary values), for example, a search form, a hotel card in the search results, or objects on the hotel details page. 
 
