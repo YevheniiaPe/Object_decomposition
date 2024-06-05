@@ -13,6 +13,8 @@ Manual Software Testing
 - Sign up for testomat.io and write checklists or test cases for the objects you have chosen, take screenshots and prepare a report in pdf format.
 
 ## :bulb: The result:
-The decomposition of the airport transfer search was selected and made : 'Agoda home page' > 'Airport transfer' > 'To airport'
+The decomposition of the airport transfer search was selected and made : 'Agoda home page' > 'Airport transfer' > 'To airport'. 
+
 Screenshots of checklists and test wounds in a pdf file.
+
 [Link to the decomposition scheme in Miro]: https://miro.com/app/board/uXjVNPGZ0DE=/
