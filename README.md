@@ -19,3 +19,5 @@ Link to the decomposition scheme in Miro [Link][]
 
 
 [Link]: https://miro.com/app/board/uXjVNPGZ0DE=/
+
+<img src="Screens/Screen_AGODA_com_TRANSFERS_.jpg" /> 
