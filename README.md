@@ -24,9 +24,20 @@ Link to the decomposition scheme in Miro [Link][]
 
 [Link]: https://miro.com/app/board/uXjVNPGZ0DE=/
 
-Decomposition scheme
+<img src="Screens/AGODA_Checklist_Airport_transfer_Search.jpg" />  
+
+### Decomposition scheme
 <img src="Screens/Screen_AGODA_com_TRANSFERS_.jpg" /> 
 
-Test Run result
+### Checklist in Testomat.io
+<img src="Screens/AGODA_Checklist_Airport_transfer_Search_1.jpg" />  
+
+<img src="Screens/AGODA_Checklist_Airport_transfer_Search_2.jpg" />  
+
+<img src="Screens/AGODA_Checklist_Airport_transfer_Search_3.jpg" />  
+
+<img src="Screens/AGODA_Checklist_Airport_transfer_Search_4.jpg" />  
+
+### Test Run result
 <img src="Screens/Test Run.png" /> 
 
