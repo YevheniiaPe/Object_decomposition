@@ -12,6 +12,10 @@ Manual Software Testing
 
 - Sign up for testomat.io and write checklists or test cases for the objects you have chosen, take screenshots and prepare a report in pdf format.
 
+<img src="Screens/Screen_AGODA_com_TRANSFER_Search.jpg" />
+
+<img src="Screens/Screen_AGODA_com_TRANSFER_Search_Result.jpg" />
+
 ## :bulb: The result:
 The decomposition of the airport transfer search was selected and made : 'Agoda home page' > 'Airport transfer' > 'To airport'. 
 Screenshots of checklists and test wounds in a pdf file.
